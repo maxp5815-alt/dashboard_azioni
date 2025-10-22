@@ -3,8 +3,7 @@ yfinance
 pandas
 numpy
 matplotlib
-statsmodels==0.13.5
 lxml
-textblob
 beautifulsoup4
 requests
+
